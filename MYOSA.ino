@@ -1,6 +1,6 @@
 /*
  * PROJECT: KAIROS - Gesture Controlled Smart Remote
- * AUTHOR: Swaraj
+ * AUTHOR: siddharth
  * DESCRIPTION: 
  * A multi-functional smart wearable powered by ESP32, MPU6050, and OLED.
  * Features include:
