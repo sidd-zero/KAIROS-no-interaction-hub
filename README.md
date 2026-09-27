@@ -21,7 +21,7 @@ tags:
 ## Acknowledgements
 
 
-**Project by Siddhant (sidd-zero)**
+**Project by Siddharth (sidd-zero)**
 
 **Original Team - Gesture Squad:**
 * Swaraj Lakhe
